@@ -38,6 +38,8 @@ header {
     align-items: center;
     background-color: #f2ede4;
     border-bottom: 1px solid black;
+    position: sticky;
+    top: 0;
 }
 
 nav {
